@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="votedfor">You Voted For:</string>
+    <string name="confirm">Confirm and Submit</string>
+</resources>
